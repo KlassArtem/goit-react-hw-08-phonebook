@@ -2,7 +2,6 @@ import { IconContext } from 'react-icons';
 import {
   FooterStyle,
   FooterLink,
-  LinkedIn,
   GitHub,
   FooterText,
 } from './Footer.styled';
